@@ -1,2 +1,2 @@
-# firt-nestjs-demo
+# first-nestjs-demo
 Leaning nest js with tailwind and react frontend
